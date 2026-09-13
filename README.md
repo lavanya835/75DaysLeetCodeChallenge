@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 ## Array
 |  |
 | ------- |
