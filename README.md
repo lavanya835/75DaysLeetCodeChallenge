@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
@@ -27,15 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -51,5 +55,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
