@@ -4,11 +4,11 @@ public:
         int left=0;
         int right=height.size()-1;
         int ans=0;
+        int h=0;
         while(left<right){
-            int h=min(height[left],height[right]);
-            int w=right-left;
-            int area=h*w;
-            ans=max(ans,area);
+            h=min(height[left],height[right]);
+            
+            ans=max(ans,h*(right-left));
             if(height[left]<height[right]){
                 left++;
             } 
