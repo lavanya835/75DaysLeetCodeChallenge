@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0881-boats-to-save-people](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -67,8 +68,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0611-valid-triangle-number](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/lavanya835/75DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
